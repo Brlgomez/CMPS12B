@@ -1,0 +1,7 @@
+checksource: improper character \x0D = ^M (carriage return)
+   file "PARTNER": 1 errors: line 1
+checksource: improper character \x80
+   file "README": 1 errors: line 7
+checksource: improper character \x99
+   file "README": 1 errors: line 7
+checksource: TOTAL COMPLAINTS: 3
